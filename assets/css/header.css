@@ -1,0 +1,21 @@
+header {
+    background-color: #fff !important;
+}
+
+header .ui.container {
+    display: flex !important;
+    justify-content: space-between !important;
+}
+
+.accent {
+    color: #2699fb !important;
+}
+
+.mb-2 {
+    margin-bottom: 2em;
+}
+
+.shadow {
+    box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.12),
+    0 2px 4px 0 rgba(0, 0, 0, 0.08) !important;
+}

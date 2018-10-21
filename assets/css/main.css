@@ -1,0 +1,16 @@
+body {
+    background-color: #F1F5F8;
+}
+
+.bg-accent {
+    background-color: #2699fb !important;
+    color: white !important;
+}
+
+.flex {
+    display: flex;
+}
+
+.justify-between {
+    justify-content: space-between;
+}
