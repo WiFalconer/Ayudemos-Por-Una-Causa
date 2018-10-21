@@ -78,6 +78,17 @@ class Dashboard extends CI_Controller {
 
         $this->load->view('entidad/dashboard', $data);
     }    
+    
+    
+       public function reports($id_entidad)
+    {
+        $data['result'] = '';
+        $data['id_entidad'] = $id_entidad;
+        $data['second_page'] = 'reports/report_tiempo';
+        $data['id'] = $id_entidad;
+
+        $this->load->view('entidad/dashboard', $data);
+    }    
                
     
 

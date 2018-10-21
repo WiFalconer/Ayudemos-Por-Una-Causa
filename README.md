@@ -1,4 +1,4 @@
-# Ayudemos por Puerto Rico
+# Ayudemos por una Causa
 
 ## A Non-Profit Aggregator and Resource Management Platform
 

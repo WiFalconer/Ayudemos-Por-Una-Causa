@@ -54,7 +54,7 @@ defined('BASEPATH') OR exit('No direct script access allowed');
                     <a class="item" href='<?=base_url("dashboard/proyectos/");?><?=$id;?>'>Projects</a>
                     <a class="item" href='<?=base_url("dashboard/tiempos/");?><?=$id;?>'>Time Sheet</a>                    
                     <a class="item">Campaigns</a>
-                    <a class="item">Reports</a>              
+                    <a class="item" href='<?=base_url("dashboard/reports/");?><?=$id;?>'>Reports</a>              
                 </div>
             </div>
             <div class="twelve wide column">

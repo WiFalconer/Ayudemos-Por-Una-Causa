@@ -20,7 +20,7 @@ defined('BASEPATH') OR exit('No direct script access allowed');
 
 <body>
     <header class="mb-2 shadow">
-        <div class="ui container" style="padding-top: 1em; padding-bottom: 0.5em;">
+        <div class="ui container" style="padding-top: 1em;">
             <h2 class="ui header">
                 <a href="/" style="color: inherit">
                     <!--<span class="accent  ">accent</span>&nbsp;<sub>logo</sub>-->
